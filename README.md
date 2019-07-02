@@ -8,6 +8,8 @@ JavaScript tools that will help us out.
 
 ## Objectives
 
+
+
 1. Create DOM elements programmatically
 2. Append elements in the DOM
 3. Remove elements from the DOM
